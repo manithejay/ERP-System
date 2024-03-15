@@ -2,8 +2,10 @@
 An ERP (Enterprise Resource Planning) system, designed to manage basic business operations efficiently. The system will consist of the following pages:
 
 
-*Dashboard - Provides an overview of the system's features.
+Dashboard - Provides an overview of the system's features.
+
 Products Management - Allows for the management of product listings.
+
 Orders Management - Facilitates viewing and handling orders.
 
 # Dashboard
